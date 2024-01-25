@@ -1,0 +1,20 @@
+.container {
+    margin: 20px;
+  }
+  
+  .cliente-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .cliente-item strong {
+    font-size: 18px;
+  }
+  
+  .cliente-item span {
+    font-weight: bold;
+  }
+  
+
+  
